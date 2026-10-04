@@ -1,56 +1,83 @@
-# Arrays in C++
+# C++ Array Practice
 
-This repository contains my C++ practice programs based on Arrays.
+This repository contains my C++ practice programs for learning and strengthening the fundamentals of **Arrays**.
 
-I am using this repository to improve my understanding of arrays, functions, searching, sorting, and basic array operations.
+I am using this repository to practice different array operations, logic-building problems, and basic problem-solving concepts.
 
 ## 📚 Topics Covered
 
-- Array Initialization
-- Array Input and Output
-- Printing Array Elements
-- Sum of Array Elements
-- Finding Array Length
+- Array Input & Output
+- Array Sum
+- Array Minus / Difference
+- Array Length
 - Copying an Array
 - Concatenating Arrays
 - Comparing Arrays
-- Counting Elements
-- Searching in Arrays
-- 2D Arrays
-- Functions with Arrays
-- Table using Arrays
+- Factorial using Array
+- 2D Array Printing
+- Printing Tables using Array
+- Pair Sum
+- Basic Array Manipulation
 
 ## 📂 Programs
 
 | File | Description |
 |------|-------------|
+| `array_sum.cpp` | Calculates the sum of array elements |
+| `array_minus1.cpp` | Performs array operation with `-1` |
 | `array_fact.cpp` | Factorial-related array practice |
-| `array_minus1.cpp` | Initialize array elements with -1 |
-| `array_sum.cpp` | Find sum of array elements |
-| `compare_Array.cpp` | Compare two arrays |
-| `concat_array.cpp` | Concatenate arrays |
-| `copy_array.cpp` | Copy one array into another |
-| `get_length.cpp` | Find array length |
-| `print_array_using_fn.cpp` | Print array using a function |
-| `table_array.cpp` | Print multiplication table using array |
-| `2D_array_printing.cpp` | Print a 2D array |
+| `get_length.cpp` | Finds the length of an array |
+| `copy_array.cpp` | Copies elements from one array to another |
+| `concat_array.cpp` | Concatenates two arrays |
+| `compare_Array.cpp` | Compares two arrays |
+| `2D_array_printing.cpp` | Prints elements of a 2D array |
+| `table_array.cpp` | Prints a multiplication table using an array |
+| `print_array_using_fn.cpp` | Prints an array using a function |
+| `pair_sum.cpp` | Finds pairs of elements whose sum matches a target |
 
-## 🛠️ Language
+## 🧠 Current Focus
 
-- C++
+Currently, I am focusing on:
 
-## 🎯 Goal
+- Understanding arrays
+- Improving C++ fundamentals
+- Building logical thinking
+- Practicing functions with arrays
+- Solving basic DSA problems
+- Writing clean and understandable code
 
-The goal of this repository is to practice C++ arrays regularly and build a strong foundation for Data Structures and Algorithms (DSA).
+## 🛠️ Language & Tools
+
+- **Language:** C++
+- **IDE:** VS Code
+- **Version Control:** Git & GitHub
 
 ## 🚀 Learning Journey
 
-Currently learning:
+This repository is part of my journey of learning **C++ and Data Structures & Algorithms**.
 
-**C++ → Arrays → Functions → DSA**
+I will continue adding new programs and gradually move from basic array problems to more advanced DSA concepts.
 
-More programs will be added as I continue learning.
+## 📈 Progress
+
+- [x] Basic Array Operations
+- [x] Array Functions
+- [x] 2D Arrays
+- [x] Array Manipulation
+- [x] Pair Sum
+- [ ] Searching
+- [ ] Sorting
+- [ ] Strings
+- [ ] Linked List
+- [ ] Stack & Queue
+- [ ] Trees
+- [ ] Graphs
+- [ ] Dynamic Programming
 
 ---
 
-⭐ This repository is part of my C++ and DSA learning journey.
+### ⭐ Goal
+
+Build strong problem-solving skills and become confident in **C++ + DSA**.
+
+> **Learn → Practice → Solve → Improve**
